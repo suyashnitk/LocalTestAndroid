@@ -15,7 +15,7 @@ public class URLPatterns {
 	
 	public static final String DOMAIN_POSITION_APPLICANT_LIST = "applicant/list";
 	
-	public static final String DOMAIN_APPLICANT_GET_FLAGS_LIST = "applicant/flags/list";
+	public static final String DOMAIN_APPLICANT_GET_FLAGS_LIST = "applicant/flags/list/list1";
 	
 //	public static final String DOMAIN_APPLICANT_TIMELINE_PART1 = "applicant/";
 	
