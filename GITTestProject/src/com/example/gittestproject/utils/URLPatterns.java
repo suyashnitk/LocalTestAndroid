@@ -2,8 +2,6 @@ package com.example.gittestproject.utils;
 
 public class URLPatterns {
 	
-	
-	
 	public static final String DOMAIN_USER_TOKEN = "user/login";
 	
 	public static final String DOMAIN_POSITION_SUMMARY = "position/summary";
