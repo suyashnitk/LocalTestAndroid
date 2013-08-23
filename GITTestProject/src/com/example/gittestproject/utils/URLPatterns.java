@@ -15,15 +15,15 @@ public class URLPatterns {
 	
 	public static final String DOMAIN_POSITION_APPLICANT_LIST = "applicant/list";
 	
-	public static final String DOMAIN_APPLICANT_GET_FLAGS_LIST = "applicant/flags/list/list1";
+	public static final String DOMAIN_APPLICANT_GET_FLAGS_LIST = "applicant/flags/list/list112";
 	
 //	public static final String DOMAIN_APPLICANT_TIMELINE_PART1 = "applicant/";
 	
-	public static final String DOMAIN_POSITION_ADD_NOTE_PART2 = "/note";
+	public static final String DOMAIN_POSITION_ADD_NOTE_PART2 = "/noteSDAF";
 	
 	public static final String DOMAIN_APPLICANT_TIMELINE_PART2 = "/timeline";
 	
-	public static final String DOMAIN_APPLICANT_BLACKLIST_PART2 = "/blacklist";
+	public static final String DOMAIN_APPLICANT_BLACKLIST_PART2 = "/blacklist12";
 	
 	public static final String DOMAIN_APPLICANT_FLAG_PART2 = "/flag";
 	
